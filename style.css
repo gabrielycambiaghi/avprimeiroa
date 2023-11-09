@@ -18,5 +18,9 @@ ul{
     text-align: center;
 }
 .botao{
-    
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border:none ;
+    text-align: center;
+    padding: 10px 20px;
 }
